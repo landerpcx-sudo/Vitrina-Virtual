@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Falabella - Probador Virtual v2",
+  "description": "Pruébate miles de productos de Falabella desde la comodidad de tu casa con nuestro Probador Virtual IA, ahora con un catálogo de productos seleccionados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
